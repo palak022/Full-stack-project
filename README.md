@@ -159,5 +159,5 @@ API Base URL: /api/*
 
 🙌 Author
 
-Anuneet Singh Chauhan
+Palak Pardeshi
 Full-Stack Developer | React | Node.js | MERN | Cloud
